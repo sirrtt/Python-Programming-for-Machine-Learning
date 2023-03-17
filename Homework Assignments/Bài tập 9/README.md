@@ -1,1 +1,16 @@
+# Bài tập 9 - CNN và các biến thể
+https://colab.research.google.com/drive/185kSoMXF-OVF3I1x7uEkhSD4eyutKnBo?authuser=1#scrollTo=U8lfBN3Y4U3G
 
+Các bạn chạy file colab với guideline như sau:
+
+Bước 1: Train và đánh giá trên tập test kiến trúc mạng LeNet với bộ MNIST
+
+Bước 2: Thử thay đổi cấu hình của LeNet thành các biến thể. Một số gợi ý:
+
+- Bỏ hết activation
+
+- Bỏ hết Convolution layer
+
+- Bỏ hết Pooling layer
+
+Bước 3: đánh giá độ chính xác trên các biến thể trên
