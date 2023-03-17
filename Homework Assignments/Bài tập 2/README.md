@@ -2,6 +2,7 @@
 Bước 1: Cài đặt thư viện geopandas
 
 Bước 2: git clone https://github.com/CityScope/CSL_HCMC
+
 Bước 3: dùng geopandas để đọc shapefile trong /Data/GIS/Population/population_HCMC/population_shapefile/Population_Ward_Level.shp
 
 Bước 4: hãy thực hiện các tác vụ truy vấn sau
